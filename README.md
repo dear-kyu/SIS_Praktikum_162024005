@@ -1,17 +1,16 @@
-# challengew3
+# SIS_Praktikum_162024005
 
-A new Flutter project.
+## Challenge Week 4
 
-## Getting Started
+Aplikasi Flutter Warung IS untuk memenuhi tugas praktikum Sistem Informasi.
 
-This project is a starting point for a Flutter application.
+### Fitur
+- Login dan Register
+- Menampilkan daftar menu minuman
+- Detail minuman dan pemesanan
+- Keranjang belanja
+- Validasi nama pemesan dan nomor meja saat checkout
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Teknologi
+- Flutter
+- Dart
